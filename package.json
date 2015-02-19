@@ -1,0 +1,15 @@
+{
+  "name": "httpLogger",
+  "version": "1.0.0",
+  "description": "Log http requests",
+  "main": "app.js",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  	"start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
